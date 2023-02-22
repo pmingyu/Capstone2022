@@ -62,6 +62,7 @@ Figure26 - ID, cluster 생성 후 Class 2 Summary Plot
 ![image](https://user-images.githubusercontent.com/93179525/220559431-a18781f9-9ba9-480f-a9e0-dafa894c9153.png)
 
 ![image](https://user-images.githubusercontent.com/93179525/220558776-65688ed3-d5be-47d2-a883-4dd20df4b178.png)
+
     - 수치형 변수의 신용등급에 따른 카드 발급 기간 차이를 파악하는 EDA 를 통해서 Class 2 에는 대부분
       ‘begin_month’ 값이 높은 사람들의 데이터가 분포했음을 확인할 수 있었다. 그에 비해서 Class 2 보다 신용등급이
       높은 Class 0 과 Class 1 은 ‘begin_month’ 값이 비교적 낮음을 알 수 있었다.
