@@ -27,6 +27,7 @@
 
 Figure19 - ID, cluster 생성 전 SHAP Feature Importance
 ![image](https://user-images.githubusercontent.com/93179525/220558158-c4e5e7e7-a304-47df-a641-5455b789ae69.png)
+
 Figure20 - ID, cluster 생성 후 SHAP Feature Importance
 ![image](https://user-images.githubusercontent.com/93179525/220558016-bac7be9b-e2b0-4e6f-95ff-4b4c6f080861.png)
 
@@ -44,14 +45,19 @@ Figure20 - ID, cluster 생성 후 SHAP Feature Importance
 
 Figure21 - ID, cluster 생성 전 Class 0 Summary Plot
 ![image](https://user-images.githubusercontent.com/93179525/220559060-389cf23b-a28a-472f-9c30-ba742c9a06b5.png)
+
 Figure22 - ID, cluster 생성 전 Class 1 Summary Plot
 ![image](https://user-images.githubusercontent.com/93179525/220559190-4ec5e828-c692-4312-ab1c-1bee2c34e8dd.png)
+
 Figure23 - ID, cluster 생성 전 Class 2 Summary Plot
 ![image](https://user-images.githubusercontent.com/93179525/220559233-d784a08b-d8c4-486b-a278-bdf6c803b1f0.png)
+
 Figure24 - ID, cluster 생성 후 Class 0 Summary Plot
 ![image](https://user-images.githubusercontent.com/93179525/220559286-ab329ab5-0fcc-4f61-b723-f3966206e740.png)
+
 Figure25 - ID, cluster 생성 후 Class 1 Summary Plot
 ![image](https://user-images.githubusercontent.com/93179525/220559404-8ad044dc-7a19-45c1-8d14-6ac62924920a.png)
+
 Figure26 - ID, cluster 생성 후 Class 2 Summary Plot
 ![image](https://user-images.githubusercontent.com/93179525/220559431-a18781f9-9ba9-480f-a9e0-dafa894c9153.png)
 
