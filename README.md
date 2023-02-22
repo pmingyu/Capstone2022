@@ -8,7 +8,8 @@
 ## 모델선정
 ![image](https://user-images.githubusercontent.com/93179525/220556521-ded01dbc-3365-479f-9388-495fbf4d3ea7.png)
 - LightGBM, XGBoost, Catboost 세가지 모델이 각 평가지표에서 근소한 차이로 상위를 차지함을 볼 수 있다. 따라서 해당 세가지 모델의 성능 보완 이후 재평가를 실시한다.
-- 파생변수 생성 및 K-prototype Clustering을 적용한 후 최종 모델로는 Catboost를 선정하였다.
+- 파생변수 생성(‘ID’는 ‘gender’, ‘DAYS_BIRTH’, ‘income_total’, ‘income_type’, ‘edu_type’, ‘occyp_type’ 값들을 더해서 만든
+  파생변수) 및 K-prototype Clustering을 적용한 후 최종 모델로는 Catboost를 선정하였다.
 - 해당 대회의 1등 모델과의 점수에 비해 Log Loss가 25% 개선됨을 확인할 수 있다.
 ![image](https://user-images.githubusercontent.com/93179525/220556450-05e99010-f266-4502-b100-8a8a8cbc202c.png)
 
